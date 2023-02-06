@@ -12,9 +12,9 @@ export default function Home({ allPosts }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm a Senior Front-end developer passionate about the latest innovations in technology!</p>
+        <p>Iam a Senior Front-end developer passionate about the latest innovations in technology!</p>
         <p>
-          Want to know more about me? Here's something for you..
+          Want to know more about me? Here is something for you..
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
